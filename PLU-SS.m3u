@@ -101,6 +101,12 @@ https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
 https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS",AZ CORAZÓN
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",VILLANOS DE NOVELAS POR VIX
+https://d3e7e3ezyu1yi3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ewewd0mivee8c/server/distrib/0MqnqghkvXVNI3p0/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqnDc-LLmSDCtZcv7fvywn5qUN35gNuOlDlCmiYEgG-hRH5n-lIYU1E4FlDQItg9hj_y6EZDyym5lsojHCSSlaS03ytHRlQEgtxaFoKMOveCi_zkv6DJTaDlV7bD1QZQN7gE32kHHB6klKK-Fvm8xuVqHUJzjTVjOv0FcGMpOSiYCsr9cDcSc1IZowPvReWATWA/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",GRANDES PAREJAS POR VIX
+https://dfthcr89xhr9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2qakw38x191dx/server/distrib/AJzMzWfNL23JI5DA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqvFRpE0R0MAj1T3d3pBjJ8FAXLY4bpY3f-Z3bjDZohMBIoStJzmAHKYT6Ca-NeRLgLCjQh5GfzqmMexbi6ao3NBnZRGtI58hnPciSWhC5ifup2KbiX3E8LN9yGq9nbPM0ADpTVVTbx-4xHEDxvjMp5bqD_uk_GoHJoU1YiY7JzvUY75lHeqU1b02IPEFKZ5FRw/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",NOVELAS DE ROMANCE POR VIX
+https://dm44c2ycmsees.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awtur5jypeo4b/server/distrib/AwpWpKfpemEGixBj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqichOfESE0Mvx1Jtn81PnLjGdX8c5rM6Wbz0X-r4kuUokXxDkVNpGrQXJTNlajn8qyE95SuHf6gHV8f03sl1yUQPzBd2gJbrGfq1mHgoJOVVQC8UfN_6AliJQgUcTWDV5ZOF4aiSuTPOG1p4BgbFAnlCS7ZWKyFTBksAnep57l4OGJUnnpzLB5grmYE-eSo9WA/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS",SIN ##### NO HAY PARAÍSO
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS",LA SELECC10N
@@ -215,6 +221,8 @@ https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 https://jmp2.uk/plu-60492e6d7f3f560007ab0f62.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NOTICIAS",LIVE-NOW FROM FOX
 https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",N+ FORO
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 #EXTINF:-1 tvg-logo="" group-title="NOTICIAS",EURONEWS
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NOTICIAS",RCN NOTICIAS
@@ -339,6 +347,8 @@ https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8
 https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",CANAL CLARÓ
 https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",CANAL VIX
+https://d36vag51su2f9u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rjlh25phsoano/server/distrib/7GnqnNT9v6Prt6lj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqiM6VVMAQRZ3BajxAKTNLztc3UzxLEvwclMk_xuZaPti2iQdDj7x8B9VIacgVxB6nPh8e9-_CaBQXtdfGZ-hf5fbtm5YEJTk8bxZMjA7NHu0J1zj4SG_9elXTTj4sJ5PP8hj9EcpM_08XHwoobu1NQTtftlO8dfbnTpEQrG7AlU7Z82dozEUrKZJxDjrjsMtug/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",AL RITMO DEL JARIPEO
 https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESTILO DE VIDA",TASTEMADE
@@ -438,9 +448,11 @@ https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",STINGRAY KARAOKE
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",CONCERT CHANNEL
-CERThttps://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",NEW K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",MUSC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",XITE HITS
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",XITE LIVE
@@ -455,33 +467,7 @@ https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",XITE SIEMPRE LATINO
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",
-https://jmp2.uk/plu-
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",XITE ROCK ON
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",XITE JUST CHILL
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8
