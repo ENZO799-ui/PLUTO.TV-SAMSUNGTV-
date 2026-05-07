@@ -1,4 +1,36 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/ar.xml.gz" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml.gzz" url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz"
+#EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo.py" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="NACIONALES",TELEFUTURO
+https://is.gd/OkwkQH?.m3u8
+#EXTINF:-1 tvg-id="NPY.py" tvg-name="NPY.py" tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="NACIONALES",NPY
+https://is.gd/oKG3i0?.m3u8
+#EXTINF:-1 tvg-id="Latele.py" tvg-name="Latele.py" tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="NACIONALES",LATELE
+https://is.gd/6O9bZg?.m3u8
+#EXTINF:-1 tvg-id="RPC.py" tvg-name="RPC.py" tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="NACIONALES",TRECE
+https://is.gd/BlLlPb?.m3u8
+#EXTINF:-1 tvg-id="Gen.py" tvg-name="Gen.py" tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="NACIONALES",GEN
+https://is.gd/TuOPTV?.m3u8
+#EXTINF:-1 tvg-id="MegaTV.py" tvg-name="MegaTV.py" tvg-logo="https://is.gd/m1pugV?.png" group-title="NACIONALES",MEGATV
+https://is.gd/rn2xYu?.m3u8
+#EXTINF:-1 tvg-id="MonumentalTV.py" tvg-name="MonumentalTV.py" tvg-logo="" group-title="NACIONALES",MONUMENTAL
+https://is.gd/k9d0OI?.m3u8
+#EXTINF:-1 tvg-id="PopuTV.py" tvg-name="PopuTV.py" tvg-logo="https://i.imgur.com/UqCogyZ.png" group-title="NACIONALES",POPUTV
+https://is.gd/S3vKsx?.m3u8
+#EXTINF:-1 tvg-id="Nanduti.py" tvg-name="Nanduti.py" tvg-logo="https://i.imgur.com/vnIkhRO.png" group-title="NACIONALES",ÑANDUTI
+https://is.gd/fpvnKH?.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="ParaguayTV.py" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="NACIONALES",PYTV
+https://is.gd/DLFXZx?.m3u8
+#EXTINF:-1 tvg-id="RCCTV.py" tvg-name="RCCTV.py" tvg-logo="https://i.imgur.com/qdjBnRl.png" group-title="NACIONALES",RCC
+https://is.gd/sriRPs?.m3u8
+#EXTINF:-1 tvg-id="HEiNow.py" tvg-name="HEiNow.py" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="NACIONALES",HEI
+https://is.gd/Mcvon8?.m3u8
+#EXTINF:-1 tvg-id="VenusMedia.py" tvg-name="VenusMedia.py" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="NACIONALES",VENUS MEDIA
+https://is.gd/lB3jud?.m3u8
+#EXTINF:-1 tvg-id="UnionTV.py" tvg-name="UnionTV.py" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="NACIONALES",UNION TV
+https://is.gd/s3xNNR?.m3u8
+#EXTINF:-1 tvg-id="E40.py" tvg-name="E40.py" tvg-logo="https://i.imgur.com/0RypDUY.png" group-title="NACIONALES",E40
+https://is.gd/kB0PPk?.m3u8
+#EXTINF:-1 tvg-id="NandejaraNeeTV.py" tvg-name="NandejaraNeeTV.py" tvg-logo="https://i.imgur.com/VFxuBdL.jpg" group-title="NACIONALES",ÑANDEJARA ÑE'E
+https://is.gd/yYMMdV?.m3u8
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-name="5dcde437229eff00091b6c30" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="PELICULAS",PLUTO.TV CINE ESTELAR
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-name="5dcb62e63d4d8f0009f36881" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="PELICULAS",PLUTO.TV CINE ACCIÓN
