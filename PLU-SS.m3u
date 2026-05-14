@@ -7,6 +7,8 @@ https://is.gd/oKG3i0?.m3u8
 https://is.gd/6O9bZg?.m3u8
 #EXTINF:-1 tvg-id="RPC.py" tvg-name="RPC.py" tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="NACIONALES",TRECE
 https://is.gd/BlLlPb?.m3u8
+#EXTINF:-1 tvg-id="Unicanal.py" tvg-logo="https://graph.facebook.com/Unicanal/picture?width=200&height=200" group-title="🇵🇾PARAGUAY🇵🇾", UNICANAL
+https://is.gd/KbamE1?.m3u8
 #EXTINF:-1 tvg-id="Gen.py" tvg-name="Gen.py" tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="NACIONALES",GEN
 https://is.gd/TuOPTV?.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-name="MegaTV.py" tvg-logo="https://is.gd/m1pugV?.png" group-title="NACIONALES",MEGATV
